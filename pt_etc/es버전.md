@@ -1,4 +1,5 @@
 ✅ ES(ECMAScript) 버전별 차이 & ES6의 주요 변화
+스크립트 언어가 어떻게 생겨야 하는지에 관한 사양
 
 버전	출시년도	주요 변화
 ES3	1999	try/catch, getter/setter, strict mode 도입
