@@ -9,8 +9,7 @@ JavaScript를 사용해 XMLHttpRequest 객체나 Fetch API를 생성
 서버에서 요청 처리 후 데이터 반환(XML, JSON, HTML, 텍스트 등)
 JavaScript로 응답 데이터를 처리하여 웹 페이지 일부 업데이트
 
-AJAX 구현 방법:
-
+AJAX 구현 방법 :
 XMLHttpRequest 객체 사용(전통적 방식)
 Fetch API 사용(모던 방식)
 jQuery의 $.ajax() 메소드 사용
